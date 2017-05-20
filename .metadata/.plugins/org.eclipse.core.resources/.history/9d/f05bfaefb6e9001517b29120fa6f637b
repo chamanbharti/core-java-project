@@ -1,0 +1,44 @@
+package com.rowset;
+
+import javax.sql.rowset.JdbcRowSet;
+import javax.sql.rowset.RowSetProvider;
+//simple example of JdbcRowSet without event handling code.
+public class JdbcRowSetInsert  {
+	public static void main(String [] args) {
+	    try {
+
+	// Get a new JdbcRowSet object with the default implementation
+	      JdbcRowSet jrs = RowSetProvider.newFactory().createJdbcRowSet();
+
+	// Set the connection URL for the DriverManager
+	      jrs.setUrl("jdbc:oracle:thin:@localhost:1521:XE","chaman_bharti","@chaman#2012");
+
+	// Set a SQL statement with parameters
+	      jrs.setCommand("SELECT * FROM Profile WHERE 1=2");
+
+	// Connect and run the statement
+	      jrs.execute();
+
+	// Move to the insert row
+	      jrs.moveToInsertRow();
+
+	// Set column values and insert
+	      jrs.updateString("FirstName", "Herong");
+	      jrs.updateString("LastName", "Yang");
+	      jrs.insertRow();
+	 
+	// Repeat for another row
+	      jrs.updateString("FirstName", "Bush");
+	      jrs.updateString("LastName", "Gate");
+	      jrs.insertRow();
+
+	      System.out.println("2 rows inserted.");
+	      
+	// Close resource
+	      jrs.close();
+	    } catch (Exception e) {
+	      System.err.println("Exception: "+e.getMessage());
+	    }
+	  }
+
+}

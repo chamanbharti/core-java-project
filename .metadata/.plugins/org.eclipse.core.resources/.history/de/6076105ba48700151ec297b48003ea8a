@@ -1,0 +1,11 @@
+package com;
+
+public class output {
+	public static void main(String args[])
+    {
+		Area obj = new Area();
+        obj.Area(6 , 5);
+        System.out.println(obj.length + " " + obj.width);        
+    } 
+
+}

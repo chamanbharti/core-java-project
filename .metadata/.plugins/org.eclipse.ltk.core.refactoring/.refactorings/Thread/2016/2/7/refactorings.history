@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;NewThread.java&apos; to &apos;Thread/src/complete_reference.multithread&apos;&#x0D;&#x0A;- Original project: &apos;Thread&apos;&#x0D;&#x0A;- Destination element: &apos;Thread/src/complete_reference.multithread&apos;&#x0D;&#x0A;- Original element: &apos;complete_reference.NewThread.java&apos;" description="Copy compilation unit" destination="/src&lt;complete_reference.multithread" element1="/src&lt;complete_reference{NewThread.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1455174410996" units="1" version="1.0"/>
+</session>

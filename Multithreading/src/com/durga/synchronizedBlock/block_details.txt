@@ -1,0 +1,23 @@
+1. To get lock of current object
+
+synchronized(this){
+--
+---
+}
+if a thread got lock of current object then only it is allowed to execute this area.
+
+2. To get lock of particular object
+
+synchronized(b){
+--
+---
+}
+if a thread got lock of particular object then only it is allowed to execute this area.
+
+3. To get lock of class level lock
+
+synchronized(Display.class){
+--
+---
+}
+if a thread got class level lock of 'Display' class then only it is allowed to execute this area.

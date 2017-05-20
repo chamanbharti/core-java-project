@@ -1,0 +1,6 @@
+1. NoSuchMethodErro
+2. InterruptedException
+3. NotSerializbleException
+4. ClassCastException
+5. LinkageError
+6. VerifyError

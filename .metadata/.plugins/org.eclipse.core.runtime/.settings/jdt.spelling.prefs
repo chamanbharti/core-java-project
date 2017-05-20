@@ -1,0 +1,16 @@
+ANNOTATION=UPPER_CAMEL_CASE
+ENUM_INSTANCE=UPPER
+ENUM_TYPE=UPPER_CAMEL_CASE
+FIELD=LOWER_CAMEL_CASE
+LOCAL_VARIABLE=LOWER_CAMEL_CASE
+METHOD=LOWER_CAMEL_CASE
+PACKAGE_DECLARATION=DOT
+TYPE=UPPER_CAMEL_CASE
+eclipse.preferences.version=1
+jdt.spelling.additions.dictionary=
+jdt.spelling.check.local=false
+jdt.spelling.code.words=OFF
+jdt.spelling.enabled=false
+jdt.spelling.ignore.dictionary=
+jdt.spelling.ignore.single.letter=true
+jdt.spelling.locale.dictionary=en_US

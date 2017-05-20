@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;Interview-Programs/src/com.interview&apos;&#x0D;&#x0A;- Original project: &apos;QuestionsAskedInInterview&apos;&#x0D;&#x0A;- Destination element: &apos;Interview-Programs/src/com.interview&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     com.CountDuplicatedList.java&#x0D;&#x0A;     com.EqualsDoubleOperator.java" description="Copy compilation units" destination="=Interview-Programs/src&lt;com.interview" element1="/src&lt;com{CountDuplicatedList.java" element2="/src&lt;com{EqualsDoubleOperator.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1493708346490" units="2" version="1.0"/>
+</session>

@@ -1,0 +1,26 @@
+public class ThrowsTest5{
+
+
+	public static void main(String[] args){
+	
+	 doStuff();
+
+	}
+	public static void doStuff(){
+	
+	 doMoreStuff();
+
+	}
+	public static void doStuff(){
+	
+	 Thread.sleep(10000);
+
+	}
+
+}
+/*CE:ThrowTest6.java:6: incompatible types
+        throw new ThrowTest6();
+              ^
+  required: Throwable
+  found:    ThrowTest6
+1 error*/

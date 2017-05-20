@@ -1,0 +1,72 @@
+// Main class  http://www.dreamincode.net/forums/topic/139957-bank-account-program-in-java-using-classes-and-objects/
+import java.util.Scanner;
+public class BankProgram 
+{
+public static void main(String args[]) 
+{
+Account acct1 = new Account();
+acct1.setID(1122);
+acct1.setBalance(20000);
+acct1.setAnnualInterestRate(4.5);
+System.out.print("\nDepositing $3000 into account, balance is now ");
+acct1.deposit(3000);
+System.out.println(acct.getBalance());
+System.out.print("\nWithdrawing $2500, balance is now ");
+acct1.withdraw(2500);
+System.out.println(acct.getBalance());
+}
+
+}
+
+public class Account 
+{
+int id;
+Date dateCreated;
+double balance, annualInteretRate;
+// Other fields
+public Account() 
+{
+	// Here is where you create a default account.
+}
+
+public void setID(int i) 
+{
+	id = i;
+}
+public int getID() 
+{
+	return id;
+}
+// Method that checks to see if balance is sufficient for withdrawal.
+// If so, reduces balance by amount; if not, prints message.
+public void withdraw(double amount)
+{
+if (balance >= amount)
+{
+balance -= amount;
+}
+else
+{
+System.out.println("Insufficient funds");
+}
+}
+// Method that adds deposit amount to balance.
+public void deposit(double amount)
+{
+balance += amount;
+}
+//-----------------------------------…
+// Returns balance.
+//-----------------------------------…
+public double getBalance()
+{
+return balance;
+}
+
+// Adds interest to the account and returns the new balance.
+public double addInterest ()
+{
+balance += (balance * RATE);
+return balance;
+
+

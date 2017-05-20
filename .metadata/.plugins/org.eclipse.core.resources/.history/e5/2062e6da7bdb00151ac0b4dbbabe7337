@@ -1,0 +1,21 @@
+package com.string;
+
+public class StringReverse5 {
+	public static void main(String[] args) {
+		/*String str ="Apple";
+		StringBuffer sb = new StringBuffer(str);
+		str =sb.reverse().toString();
+		System.out.println("ReverseString "+str);*/
+		/*StringBuffer sb = new StringBuffer("Apple");
+		sb.reverse().toString();
+		//System.out.println("ReverseString "+sb.reverse());
+		System.out.println("ReverseString "+sb);*/
+		
+		String str = "Hello Java";
+		for(int i=str.length()-1;i>=0;i--){
+			System.out.println(str.charAt(i));
+		}
+			
+	}
+
+}

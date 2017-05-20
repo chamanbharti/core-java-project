@@ -1,0 +1,26 @@
+package com.string;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+
+public class ReverseString0 {
+	
+	static int i,c=0,res;
+	public static void main(String[] args) throws IOException{
+		
+		System.out.println("Original String is: ");
+		System.out.println("manchester united is also known as red devil ");
+		ReverseString0.stringReverse("manchester united also known as red devil");
+	}
+
+	public static void stringReverse(String string) {
+		char ch[] = new char[string.length()];
+		for(i=0;i<string.length();i++)
+			ch[i] = string.charAt(i);
+		for(i=string.length()-1;i>=0;i--)
+			System.out.println(ch[i]);
+		
+	}
+
+}

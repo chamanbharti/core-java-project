@@ -1,0 +1,28 @@
+package com.javaconceptodtheday;
+
+public class Demo {
+	
+	class Inner{
+		void m1(){
+			System.out.println("Inner class method");
+
+		}
+	}
+	public static void main(String[] args) {
+		// Step-I
+		/*Outer o = new Outer();
+		Outer.Inner i = o.new Inner();
+		i.m1();
+		*/
+		
+		//Step-II
+		/*Outer o = new Outer();
+		Outer.Inner i = new Outer().new Inner();
+		i.m1();*/
+		
+		//Step-III
+		Outer().new Inner().m1();
+	}
+
+}
+

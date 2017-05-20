@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 elements to &apos;JUnitTest/src/com.TimeTest&apos;&#x0D;&#x0A;- Original project: &apos;JUnitTest&apos;&#x0D;&#x0A;- Destination element: &apos;JUnitTest/src/com.TimeTest&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     com.IgnoreTest.MessageUtil.java&#x0D;&#x0A;     com.IgnoreTest.TestJunit2.java&#x0D;&#x0A;     com.IgnoreTest.TestRunner.java&#x0D;&#x0A;     com.IgnoreTest.TestJunit1.java" description="Copy compilation units" destination="/src&lt;com.TimeTest" element1="/src&lt;com.IgnoreTest{MessageUtil.java" element2="/src&lt;com.IgnoreTest{TestJunit2.java" element3="/src&lt;com.IgnoreTest{TestRunner.java" element4="/src&lt;com.IgnoreTest{TestJunit1.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1454420821908" units="4" version="1.0"/>
+</session>

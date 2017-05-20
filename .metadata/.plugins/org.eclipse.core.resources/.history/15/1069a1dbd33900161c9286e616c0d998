@@ -1,0 +1,17 @@
+package constructor;
+
+public class DefaultConstrucutor2 {
+	
+	int id;
+	String name;
+	
+	void display(){
+		System.out.println(id+" "+name);
+	}
+	public static void main(String[] args) {
+		DefaultConstrucutor2 d1=new DefaultConstrucutor2();
+		d1.display();
+		d1.display();
+	}
+
+}

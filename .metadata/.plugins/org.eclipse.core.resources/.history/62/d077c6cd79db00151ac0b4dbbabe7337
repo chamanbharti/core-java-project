@@ -1,0 +1,22 @@
+package com.string;
+
+public class StringLength {
+	static int i,c,res;
+	public static int length(String s){
+		try{
+			for(i=0,c=0;0<=i;i++,c++)
+				s.charAt(i);
+		}
+		catch(Exception e){
+			System.out.println("length is ");
+		}
+		return c;
+	}
+	public static void main(String[] args) {
+		System.out.println("Original String is: ");
+		System.out.println("Alives awesome ");
+		res=StringLength.length("Alive is awesome");
+		System.out.println(res);
+	}
+
+}

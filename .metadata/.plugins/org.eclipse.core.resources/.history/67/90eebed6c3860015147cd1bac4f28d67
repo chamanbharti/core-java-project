@@ -1,0 +1,23 @@
+package com.transaction;
+
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+import java.sql.Statement;
+
+public class Transaction2 {
+	public static void main(String[] args) throws ClassNotFoundException, SQLException {
+		Class.forName("oracle.jdbc.driver.OracleDriver");  
+		Connection con=DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe","chaman_bharti","@chaman#2012"); 
+		con.setAutoCommit(true);
+		
+		PreparedStatement ps=con.prepareStatement("insert into user420 values(?,?,?)");  
+		  
+		BufferedReader br=new BufferedReader(new InputStreamReader(System.in));  
+		System.out.println("data stored successfully");
+	}
+
+}

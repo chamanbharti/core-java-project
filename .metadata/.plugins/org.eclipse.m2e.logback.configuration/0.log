@@ -1,0 +1,69 @@
+2017-01-10 23:14:13,153 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.journaldev.log4j:log4j-example:0.0.1-SNAPSHOT @ C:\Users\Chaman Bharti\Downloads\log4j-example\log4j-example\pom.xml.
+2017-01-10 23:14:13,153 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.journaldev.log4j:log4j-example:0.0.1-SNAPSHOT @ C:\Users\Chaman Bharti\Downloads\log4j-example\log4j-example\pom.xml.
+2017-01-10 23:14:14,510 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-10 23:14:14,518 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chaman Bharti\Downloads\log4j-example\log4j-example\src\main\resources
+2017-01-10 23:14:14,521 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-10 23:14:14,528 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chaman Bharti\Downloads\log4j-example\log4j-example\src\test\resources
+2017-01-10 23:14:16,186 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-10 23:14:16,201 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chaman Bharti\Downloads\log4j-example\log4j-example\src\main\resources
+2017-01-10 23:14:16,569 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-10 23:14:16,572 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.journaldev.log4j:log4j-example:0.0.1-SNAPSHOT @ C:\Users\Chaman Bharti\Downloads\log4j-example\log4j-example\pom.xml.
+2017-01-10 23:14:16,578 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chaman Bharti\Downloads\log4j-example\log4j-example\src\test\resources
+2017-01-10 23:14:18,042 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-10 23:14:18,051 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chaman Bharti\Downloads\log4j-example\log4j-example\src\main\resources
+2017-01-10 23:14:18,053 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-10 23:14:18,061 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chaman Bharti\Downloads\log4j-example\log4j-example\src\test\resources
+2017-01-10 23:14:53,719 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-01-10 23:15:02,001 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Chaman Bharti\Downloads\log4j-example\log4j-example
+2017-01-10 23:15:02,002 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2017-01-10 23:16:19,979 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-10 23:16:19,985 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chaman Bharti\Downloads\log4j-example\log4j-example\src\main\resources
+2017-01-10 23:16:19,987 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-10 23:16:19,993 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chaman Bharti\Downloads\log4j-example\log4j-example\src\test\resources
+2017-01-10 23:16:37,384 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2017-01-10 23:16:37,649 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Chaman Bharti\Downloads\log4j-example\log4j-example
+2017-01-10 23:16:37,649 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2017-01-10 23:18:06,831 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-10 23:18:06,841 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chaman Bharti\Downloads\log4j-example\log4j-example\src\main\resources
+2017-01-10 23:18:06,843 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-10 23:18:06,863 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chaman Bharti\Downloads\log4j-example\log4j-example\src\test\resources
+2017-01-10 23:18:40,798 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-10 23:18:40,808 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chaman Bharti\Downloads\log4j-example\log4j-example\src\main\resources
+2017-01-10 23:18:40,810 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-10 23:18:40,817 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chaman Bharti\Downloads\log4j-example\log4j-example\src\test\resources
+2017-01-10 23:18:47,430 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-10 23:18:47,448 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chaman Bharti\Downloads\log4j-example\log4j-example\src\main\resources
+2017-01-10 23:18:47,453 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-10 23:18:47,482 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chaman Bharti\Downloads\log4j-example\log4j-example\src\test\resources
+2017-01-10 23:19:49,935 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-10 23:19:49,943 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chaman Bharti\Downloads\log4j-example\log4j-example\src\main\resources
+2017-01-10 23:19:49,945 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-10 23:19:49,961 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chaman Bharti\Downloads\log4j-example\log4j-example\src\test\resources
+2017-01-10 23:21:49,833 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-10 23:21:49,845 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chaman Bharti\Downloads\log4j-example\log4j-example\src\main\resources
+2017-01-10 23:21:49,849 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-10 23:21:49,860 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chaman Bharti\Downloads\log4j-example\log4j-example\src\test\resources
+2017-01-10 23:22:20,846 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-10 23:22:20,857 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chaman Bharti\Downloads\log4j-example\log4j-example\src\main\resources
+2017-01-10 23:22:20,859 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-10 23:22:20,867 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chaman Bharti\Downloads\log4j-example\log4j-example\src\test\resources
+2017-01-10 23:22:37,540 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-10 23:22:37,549 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chaman Bharti\Downloads\log4j-example\log4j-example\src\main\resources
+2017-01-10 23:22:37,550 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-10 23:22:37,559 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chaman Bharti\Downloads\log4j-example\log4j-example\src\test\resources
+2017-01-10 23:23:55,553 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-10 23:23:55,561 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chaman Bharti\Downloads\log4j-example\log4j-example\src\main\resources
+2017-01-10 23:23:55,563 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-10 23:23:55,570 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chaman Bharti\Downloads\log4j-example\log4j-example\src\test\resources
+2017-01-10 23:24:10,832 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-10 23:24:10,837 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chaman Bharti\Downloads\log4j-example\log4j-example\src\main\resources
+2017-01-10 23:24:10,840 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-10 23:24:10,848 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chaman Bharti\Downloads\log4j-example\log4j-example\src\test\resources
+2017-01-10 23:25:50,061 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-10 23:25:50,072 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chaman Bharti\Downloads\log4j-example\log4j-example\src\main\resources
+2017-01-10 23:25:50,073 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-10 23:25:50,090 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chaman Bharti\Downloads\log4j-example\log4j-example\src\test\resources
+2017-01-10 23:26:03,128 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-10 23:26:03,145 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chaman Bharti\Downloads\log4j-example\log4j-example\src\main\resources
+2017-01-10 23:26:03,149 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-10 23:26:03,178 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chaman Bharti\Downloads\log4j-example\log4j-example\src\test\resources

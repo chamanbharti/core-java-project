@@ -1,0 +1,24 @@
+package map.hashmap;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class TreeMap0 {
+	public static void main(String[] args) {
+		TreeMap<Integer, String> hm = new TreeMap<Integer, String>();
+		
+		hm.put(100, "Kalim Roshan Sailani");
+		hm.put(101, "Sabila Khatun");
+		hm.put(102, "Rahi Akela");
+		hm.put(103, "Chaman Bharti");
+		hm.put(104, "Nasrin Praveen");
+		hm.put(105, "");
+		hm.put(null, "");
+		hm.put(107, "Rahi Akela");
+		
+		for(Map.Entry<Integer, String> m : hm.entrySet()){
+			System.out.println(m.getKey()+" "+m.getValue());
+		}
+	}
+
+}

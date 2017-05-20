@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/Tough_Program/src/com/sumOfEnteredNo/CountGivenNo.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.sumOfEnteredNo.CountGivenNo"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Tough_Program"/>
+</launchConfiguration>

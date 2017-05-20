@@ -1,0 +1,52 @@
+package serialization;
+
+import java.io.Serializable;
+
+//@SuppressWarnings("serial")
+public class Employee implements Serializable {
+
+	/**
+	 * 
+	 */
+private static final long serialVersionUID = 1L;
+
+	 	int employeeId;  
+	 	transient String employeeName;  
+	    static String department;
+	    public String address;
+	    String dob;
+		public int getEmployeeId() {
+			return employeeId;
+		}
+		public void setEmployeeId(int employeeId) {
+			this.employeeId = employeeId;
+		}
+		public String getEmployeeName() {
+			return employeeName;
+		}
+		public void setEmployeeName(String employeeName) {
+			this.employeeName = employeeName;
+		}
+		public static String getDepartment() {
+			return department;
+		}
+		public static void setDepartment(String department) {
+			Employee.department = department;
+		}
+		public String getAddress() {
+			return address;
+		}
+		public void setAddress(String address) {
+			this.address = address;
+		}
+		public String getDob() {
+			return dob;
+		}
+		public void setDob(String dob) {
+			this.dob = dob;
+		}
+		public static long getSerialversionuid() {
+			return serialVersionUID;
+		}
+	    
+}

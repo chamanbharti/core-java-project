@@ -1,0 +1,20 @@
+package com.swap;
+
+public class SwapWithout3rdVariable {
+	
+	public static void main(String[] args) {
+		int num1 = 20;
+		int num2 = 30;
+		System.out.println("Before swapping: "+num1+" and "+num2);
+		//method call
+		swapNumbers(num1,num2);
+	}
+
+	static void swapNumbers(int num1, int num2){
+		num1 = num1 + num2; 
+		num2 = num1 - num2; 
+		num1 = num1 - num2;
+		System.out.println("After swapping: "+ num1 + " and " + num2); 
+	}
+}
+//http://www.cquestions.com/2008/01/write-c-program-for-swap-two-variables.html

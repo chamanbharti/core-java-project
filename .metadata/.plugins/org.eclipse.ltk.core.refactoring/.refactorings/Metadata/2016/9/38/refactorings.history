@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;OOPS_Concept/src/com.Enum&apos;&#x0D;&#x0A;- Original project: &apos;Metadata&apos;&#x0D;&#x0A;- Destination element: &apos;OOPS_Concept/src/com.Enum&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     EnumDemo2.java&#x0D;&#x0A;     EnumDemo.java&#x0D;&#x0A;     EnumDemo3.java" description="Copy compilation units" destination="=OOPS_Concept/src&lt;com.Enum" element1="/src&lt;{EnumDemo2.java" element2="/src&lt;{EnumDemo.java" element3="/src&lt;{EnumDemo3.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1473671800188" units="3" version="1.0"/>
+</session>

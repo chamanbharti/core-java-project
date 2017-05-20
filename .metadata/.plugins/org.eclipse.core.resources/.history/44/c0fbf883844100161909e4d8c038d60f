@@ -1,0 +1,26 @@
+package serialization;
+
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.ObjectOutputStream;
+
+public class SerializeMain {
+	public static void main(String[] args) {
+		Employee e=new Employee();
+		e.setEmployeeId(101);
+		e.setEmployeeName("Chaman");
+		e.setDepartment("MCA");
+		
+		try{
+			FileOutputStream fos=new FileOutputStream("employee.ser");
+			ObjectOutputStream oos=new ObjectOutputStream(fos);
+			oos.writeObject(e);
+			oos.close();
+			fos.close();
+		}
+		catch(IOException i){
+			i.printStackTrace();
+		}
+		
+	}
+}

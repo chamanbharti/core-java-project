@@ -1,0 +1,21 @@
+package abstraction.service;
+
+abstract class Test
+{
+  public Test()
+  {
+    this("way2java.com");
+    System.out.println("Abstract class default constructor");
+  }
+  public Test(String str)
+  {
+    System.out.println("My name is " + str);
+  }
+}
+public class Demo extends Test
+{
+  public static void main(String args[])
+  {
+    new Demo();
+  }
+}

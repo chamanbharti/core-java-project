@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;tutorialspoint.thread&apos; to &apos;Multithreading/src/tutorialspoint.thread&apos;&#x0D;&#x0A;- Original project: &apos;Multithreading&apos;&#x0D;&#x0A;- Destination element: &apos;Multithreading/src/tutorialspoint.thread&apos;&#x0D;&#x0A;- Original element: &apos;Multithreading/src/tutorialspoint.thread&apos;" description="Copy package" destination="/src&lt;tutorialspoint.thread" element1="/src&lt;tutorialspoint.thread" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1473839759095" version="1.0"/>
+</session>

@@ -1,0 +1,8 @@
+package com.default_method;
+
+public class DefaultMethod {
+	public static void main(String[] args) {
+		
+	}
+
+}

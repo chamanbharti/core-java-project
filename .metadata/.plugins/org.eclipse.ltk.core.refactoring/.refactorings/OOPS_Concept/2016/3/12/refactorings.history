@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 packages to &apos;Inheritance/src&apos;&#x0D;&#x0A;- Original project: &apos;OOPS_Concept&apos;&#x0D;&#x0A;- Destination element: &apos;Inheritance/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     OOPS_Concept/src/Has_Relationship&#x0D;&#x0A;     OOPS_Concept/src/isA_Relationship" description="Copy packages" destination="=Inheritance/src" element1="/src&lt;Has_Relationship" element2="/src&lt;isA_Relationship" flags="589830" fragments="2" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1458285412453" version="1.0"/>
+</session>
